@@ -6,7 +6,6 @@
 - **Technical Steward:** Lead Analytics Engineer
 
 ---
-
 ## 2. KPI Dictionary (8 Metrics)
 
 | KPI ID | KPI Name | Business Definition | Formula | Grain | Inclusions & Exclusions | Metric Owner | Refresh Cadence |
